@@ -1,0 +1,46 @@
+Question 1
+A. What is an Algorithm? Algorithm are a set of instructions that are executed to get the solution to a given problem.
+def fxn(*g):
+    x=sum(g)
+    y=len(g)
+    z=x/y
+    print(g)
+    print(type(g))
+    print(x,y,z)
+fxn(23,67,89,10,34,11,23,45,8)
+
+B. What is a psuedocode? Psuedocode is a way of expressing an algorithm without conforming to specific syntax rules.
+
+C. What is a flowchart? A flowchart is a type of diagram that represents an algorithm, workflow or process.
+
+D. What are the properties of an algorithm?
+(i) The inputs must be specified.
+(ii) The outputs must be specified.
+(iii) Definiteness.
+(iv) Effectiveness.
+(v) Finiteness.
+
+E. Write an Algorithm to add two numbers together?
+a=5
+b=10
+c="a + b"
+print(c)
+
+F. Begin
+   Number s1, s2, sum
+   Output("Input number 1:")
+   Input s1
+   Output("Input number 2:")
+   Input s2
+   sum=s1+s2
+   Output sum
+   End
+
+G. Step 1: Start
+   Step 2: Declare variables num1, num2, and sum.
+   Step 3: Read values for num1, num2.
+   Step 4: Add num1 and num2 and assign the result to a variable sum.
+   Step 5: Display sum
+   Step 6: Stop
+
+
